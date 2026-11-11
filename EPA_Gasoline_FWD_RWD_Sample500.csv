@@ -1,0 +1,501 @@
+"VehicleID","ModelYear","Make","Model","DriveType","Drive","EPAClass","Cylinders","Displacement_L","Transmission","FuelGrade","CityMPG","HighwayMPG","CombinedMPG","AnnualFuelCost_USD"
+41503,2020,"Volvo","XC40 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Regular",23,33,27,2500
+45373,2023,"Cadillac","XT6 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S9)","Premium",21,27,23,3550
+40301,2019,"GMC","Acadia FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2.5,"Automatic 6-spd","Regular",21,26,23,2900
+37113,2016,"Infiniti","Q70","RWD","Rear-Wheel Drive","Midsize Cars",8,5.6,"Automatic (S7)","Premium",16,24,19,4350
+40621,2019,"Nissan","NV200 Cargo Van","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic (variable gear ratios)","Regular",24,26,25,2700
+43521,2021,"Mercedes-Benz","AMG GT Roadster","RWD","Rear-Wheel Drive","Two Seaters",8,4,"Automatic (AM7)","Premium",15,20,17,4850
+35268,2015,"Mazda","3 5-Door","FWD","Front-Wheel Drive","Midsize Cars",4,2.5,"Automatic (S6)","Regular",28,38,32,2100
+40559,2019,"Subaru","BRZ","RWD","Rear-Wheel Drive","Minicompact Cars",4,2,"Manual 6-spd","Premium",21,29,24,3400
+34838,2015,"Volvo","V60 FWD","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (S8)","Regular",25,36,29,2300
+45279,2023,"MINI","Cooper S Clubman","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Manual 6-spd","Premium",22,32,25,3300
+48520,2025,"Infiniti","QX50","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (AV-S8)","Premium",23,29,26,3150
+44518,2022,"Porsche","718 Boxster T","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (AM-S7)","Premium",21,27,23,3550
+35636,2015,"Nissan","Frontier 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",6,4,"Automatic 5-spd","Regular",16,22,18,3700
+46646,2024,"Ford","Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Automatic 10-spd","Regular",22,33,26,2600
+35434,2015,"BMW","550i","RWD","Rear-Wheel Drive","Midsize Cars",8,4.4,"Automatic (S8)","Premium",17,25,20,4100
+38866,2018,"Mazda","3 4-Door","FWD","Front-Wheel Drive","Compact Cars",4,2,"Manual 6-spd","Regular",28,38,31,2150
+39656,2018,"Nissan","Sentra","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Manual 6-spd","Regular",27,35,30,2250
+35810,2015,"GMC","Canyon 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",4,2.5,"Manual 6-spd","Regular",19,25,22,3050
+49209,2026,"BMW","M4 Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Manual 6-spd","Premium",16,23,19,4350
+35826,2015,"Cadillac","Escalade 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,6.2,"Automatic 8-spd","Regular",15,22,17,3950
+48524,2025,"Volkswagen","Atlas","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Regular",20,26,22,3050
+40421,2019,"Honda","HR-V FWD","FWD","Front-Wheel Drive","Small Station Wagons",4,1.8,"Automatic (AV-S7)","Regular",28,34,30,2250
+35986,2016,"Kia","Sorento FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S6)","Regular",21,28,24,2800
+39625,2018,"Honda","CR-V FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.5,"Automatic (variable gear ratios)","Regular",28,34,30,2250
+44547,2022,"Honda","Civic 5Dr","FWD","Front-Wheel Drive","Large Cars",4,1.5,"Manual 6-spd","Regular",28,37,31,2150
+35111,2015,"Mercedes-Benz","GLK350","RWD","Rear-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic 7-spd","Premium",19,26,22,3750
+36588,2016,"Volkswagen","Golf SportWagen","FWD","Front-Wheel Drive","Small Station Wagons",4,1.8,"Manual 5-spd","Regular",25,35,28,2400
+36371,2016,"Hyundai","Tucson FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.6,"Automatic (AM7)","Regular",25,30,27,2500
+45350,2023,"Kia","Forte","FWD","Front-Wheel Drive","Midsize Cars",4,1.6,"Automatic (AM-S7)","Regular",27,35,30,2250
+43786,2022,"MINI","Cooper Hardtop 4 door","FWD","Front-Wheel Drive","Subcompact Cars",3,1.5,"Automatic (AM-S7)","Premium",29,38,32,2550
+47137,2024,"Lexus","RX 350","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S8)","Premium",22,29,25,3300
+37959,2017,"BMW","M240i Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Automatic (S8)","Premium",21,32,25,3300
+34889,2015,"Mazda","MX-5","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Manual 6-spd","Premium",21,27,24,3400
+40371,2019,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",28,37,32,2100
+38981,2018,"Chevrolet","Silverado C15 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.3,"Automatic 8-spd","Regular",16,22,18,3700
+36535,2016,"Mazda","3 5-Door","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",29,39,33,2050
+39137,2018,"BMW","340i","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Automatic (S8)","Premium",21,32,25,3300
+48552,2025,"Jeep","Grand Cherokee 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 8-spd","Regular",19,26,22,3050
+39138,2018,"BMW","340i","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Manual 6-spd","Premium",19,29,23,3550
+34701,2015,"Jaguar","F-Type R Coupe","RWD","Rear-Wheel Drive","Two Seaters",8,5,"Automatic (S8)","Premium",16,23,18,4550
+35103,2015,"Hyundai","Elantra Limited","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Automatic (S6)","Regular",27,36,30,2250
+41421,2020,"Hyundai","Kona FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S6)","Regular",27,33,30,2250
+49881,2026,"GMC","Yukon 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,20,17,3950
+35822,2015,"Nissan","Pathfinder 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (variable gear ratios)","Regular",20,27,23,2900
+45928,2023,"Lexus","IS 300","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",21,31,25,3300
+34831,2015,"Chrysler","200","FWD","Front-Wheel Drive","Midsize Cars",6,3.6,"Automatic 9-spd","Regular",19,31,23,2900
+44836,2021,"Jaguar","F-Type Convertible","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S8)","Premium",23,30,26,3150
+38321,2017,"Dodge","Challenger SRT","RWD","Rear-Wheel Drive","Midsize Cars",8,6.2,"Automatic 8-spd","Premium",13,22,16,5150
+44404,2022,"Nissan","Armada 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.6,"Automatic (S7)","Premium",14,19,16,5150
+40659,2019,"GMC","Canyon Cab Chassis 2WD","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",6,3.6,"Automatic 8-spd","Regular",15,15,15,4450
+48455,2024,"Volkswagen","GLI","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AM-S7)","Regular",26,36,30,2250
+42998,2021,"Toyota","C-HR","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AV-S7)","Regular",27,31,29,2300
+35293,2015,"BMW","320i","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",23,35,28,2950
+34767,2015,"Hyundai","Genesis RWD","RWD","Rear-Wheel Drive","Large Cars",6,3.8,"Automatic 8-spd","Regular",18,28,22,3050
+36259,2016,"Porsche","911 Carrera S Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3.8,"Automatic (AM-S7)","Premium",19,27,22,3750
+38311,2017,"Mazda","3 4-Door","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (S6)","Regular",28,37,32,2100
+42532,2021,"MINI","Cooper S Hardtop 2 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Manual 6-spd","Premium",23,33,27,3050
+37412,2017,"Kia","Rio Eco","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (S6)","Regular",27,36,31,2150
+41354,2020,"BMW","M4 Coupe","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Automatic (AM-S7)","Premium",17,23,19,4350
+37095,2016,"Chevrolet","Spark","FWD","Front-Wheel Drive","Subcompact Cars",4,1.4,"Automatic (variable gear ratios)","Regular",31,40,34,1950
+35161,2015,"Porsche","911 Carrera","RWD","Rear-Wheel Drive","Minicompact Cars",6,3.4,"Automatic (AM-S7)","Premium",20,28,23,3550
+38586,2018,"Genesis","G80 RWD","RWD","Rear-Wheel Drive","Large Cars",6,3.3,"Automatic (S8)","Premium",17,25,20,4100
+41150,2019,"Fiat","500 Abarth","FWD","Front-Wheel Drive","Minicompact Cars",4,1.4,"Automatic 6-spd","Premium",24,32,27,3050
+48207,2025,"GMC","Sierra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.3,"Automatic 10-spd","Regular",16,21,18,3700
+36210,2016,"Hyundai","Santa Fe Sport Ultimate FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S6)","Regular",19,26,22,3050
+36074,2016,"Nissan","370Z Roadster","RWD","Rear-Wheel Drive","Two Seaters",6,3.7,"Automatic (S7)","Premium",18,25,21,3900
+46356,2023,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (variable gear ratios)","Regular",32,40,35,1900
+49266,2026,"MINI","Cooper S 4 Door","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AM-S7)","Premium",28,39,32,2550
+39128,2018,"MINI","Cooper S Hardtop 4 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (S6)","Premium",25,32,28,2950
+39429,2018,"Lincoln","MKZ FWD","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",21,31,24,2800
+37038,2016,"Mercedes-Benz","GLA250","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (AM7)","Premium",25,34,28,2950
+48816,2025,"Porsche","718 GT4 RS","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Automatic (AM-S7)","Premium",15,19,16,5150
+36084,2016,"BMW","M6 Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",8,4.4,"Automatic (AM-S7)","Premium",14,20,16,5150
+39249,2018,"Toyota","Tundra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,4.6,"Automatic (S6)","Regular",15,19,16,4200
+49871,2026,"Chevrolet","Tahoe 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,6.2,"Automatic 10-spd","Premium",15,20,17,4850
+36308,2016,"Jaguar","F-Type Convertible","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",16,24,19,4350
+43770,2021,"Nissan","Rogue FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",3,1.5,"Automatic (AV-S8)","Regular",30,37,33,2050
+42488,2021,"Volkswagen","Atlas","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic (S8)","Regular",17,23,19,3550
+42409,2020,"Porsche","911 Carrera Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Automatic (AM-S8)","Premium",17,24,20,4100
+45177,2022,"GMC","Sierra Cab Chassis 2WD","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,18,17,3950
+36568,2016,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (variable gear ratios)","Regular",31,39,34,1950
+45823,2023,"Chevrolet","Equinox FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.5,"Automatic 6-spd","Regular",26,31,28,2400
+49464,2026,"Nissan","Rogue FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",3,1.5,"Automatic (AV-S8)","Regular",29,36,32,2100
+46349,2023,"Ford","Mustang HO Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Automatic (S10)","Regular",19,26,22,3050
+45627,2023,"GMC","Yukon 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,20,17,3950
+44515,2022,"Porsche","718 Cayman S","RWD","Rear-Wheel Drive","Two Seaters",4,2.5,"Manual 6-spd","Premium",19,24,21,3900
+36646,2016,"Volkswagen","Beetle Convertible","FWD","Front-Wheel Drive","Subcompact Cars",4,1.8,"Automatic (S6)","Regular",24,33,28,2400
+42637,2021,"Buick","Encore FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.4,"Automatic (S6)","Regular",25,30,27,2500
+39177,2018,"BMW","X1 sDrive28i","FWD","Front-Wheel Drive","Large Cars",4,2,"Automatic (S8)","Premium",23,32,26,3150
+45882,2023,"Nissan","Pathfinder 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S9)","Regular",20,27,23,2900
+43751,2022,"Mitsubishi","Outlander 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (AV-S8)","Regular",24,31,27,2500
+36518,2016,"Mercedes-Benz","AMG SLK55","RWD","Rear-Wheel Drive","Two Seaters",8,5.5,"Automatic 7-spd","Premium",19,28,22,3750
+45765,2023,"BMW","330i Sedan","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",25,34,29,2850
+40637,2019,"Alfa Romeo","Giulia","RWD","Rear-Wheel Drive","Midsize Cars",6,2.9,"Automatic 8-spd","Premium",17,24,20,4100
+40347,2019,"Chevrolet","Spark ACTIV","FWD","Front-Wheel Drive","Subcompact Cars",4,1.4,"Automatic (variable gear ratios)","Regular",30,37,33,2050
+39725,2018,"Jaguar","XJL","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (S8)","Premium",18,27,21,3900
+40102,2019,"Jaguar","F-Type S Convertible","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",15,24,18,4550
+43224,2021,"Porsche","718 Boxster T","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Manual 6-spd","Premium",20,26,22,3750
+44219,2022,"Volkswagen","Atlas","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic (S8)","Regular",18,24,20,3350
+37840,2017,"Jeep","Compass FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Manual 5-spd","Regular",23,28,25,2700
+48021,2025,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,1.6,"Automatic (AM-S7)","Regular",28,35,31,2150
+48910,2025,"Toyota","RAV4","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S8)","Regular",27,35,30,2250
+42020,2020,"Rolls-Royce","Phantom","RWD","Rear-Wheel Drive","Large Cars",12,6.7,"Automatic (S8)","Premium",12,20,14,5850
+39644,2018,"Ford","Mustang Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Manual 6-spd","Regular",20,28,23,2900
+44545,2022,"Honda","Civic 5Dr","FWD","Front-Wheel Drive","Large Cars",4,1.5,"Automatic (variable gear ratios)","Regular",31,39,35,1900
+35150,2015,"Porsche","Cayman S","RWD","Rear-Wheel Drive","Two Seaters",6,3.4,"Automatic (AM-S7)","Premium",21,29,24,3400
+46808,2024,"Kia","Soul Eco dynamics","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (variable gear ratios)","Regular",29,35,31,2150
+38681,2018,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Manual 6-spd","Regular",26,36,29,2300
+39008,2018,"GMC","Yukon C1500 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,6.2,"Automatic 10-spd","Premium",14,23,17,4850
+47590,2024,"Toyota","Tacoma 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",4,2.4,"Automatic (S8)","Regular",20,26,23,2900
+45349,2023,"Kia","Forte","FWD","Front-Wheel Drive","Midsize Cars",4,1.6,"Manual 6-spd","Regular",22,31,26,2600
+44514,2022,"Porsche","718 Cayman GTS","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Automatic (AM-S7)","Premium",19,24,21,3900
+41501,2020,"GMC","Terrain FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.5,"Automatic 9-spd","Regular",26,30,27,2500
+40185,2019,"Jaguar","XE","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Automatic (S8)","Premium",21,30,24,3400
+40262,2019,"Acura","RDX FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S10)","Premium",22,28,24,3400
+43438,2021,"Dodge","Challenger","RWD","Rear-Wheel Drive","Midsize Cars",8,6.4,"Manual 6-spd","Premium",14,23,17,4850
+40004,2019,"Infiniti","Q70","RWD","Rear-Wheel Drive","Midsize Cars",8,5.6,"Automatic (S7)","Premium",16,24,19,4350
+40838,2019,"Honda","Civic 2Dr","FWD","Front-Wheel Drive","Compact Cars",4,1.5,"Automatic (variable gear ratios)","Regular",31,40,35,1900
+42780,2021,"Kia","Stinger RWD","RWD","Rear-Wheel Drive","Midsize Cars",6,3.3,"Automatic (S8)","Premium",17,25,20,4100
+35219,2015,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Compact Cars",8,6.2,"Automatic (S6)","Premium",12,18,14,5850
+37149,2016,"Lexus","GS 350","RWD","Rear-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Premium",20,28,23,3550
+41042,2019,"Mazda","CX-5 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S6)","Regular",23,28,25,2700
+41964,2020,"Chevrolet","Blazer FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic 9-spd","Regular",19,26,21,3200
+48466,2024,"GMC","Acadia FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2.5,"Automatic 8-spd","Regular",20,27,23,2900
+38008,2017,"BMW","M240i Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Manual 6-spd","Premium",19,28,22,3750
+44835,2021,"Jaguar","F-Type Coupe","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S8)","Premium",23,30,26,3150
+37438,2017,"Porsche","911 Carrera","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Automatic (AM-S7)","Premium",22,30,25,3300
+49244,2026,"Cadillac","CT4","RWD","Rear-Wheel Drive","Compact Cars",4,2.7,"Automatic (S10)","Premium",21,31,25,3300
+40204,2019,"Kia","Soul","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (S6)","Regular",25,30,27,2500
+37045,2016,"Ford","F150 3.5L 2WD GVWR>7599 LBS PAYLOAD PACKAGE","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.5,"Automatic (S6)","Regular",16,22,18,3700
+45053,2022,"Ford","Mustang HO Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Manual 6-spd","Regular",19,25,21,3200
+42151,2020,"Honda","Civic 4Dr","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Manual 6-spd","Regular",25,36,29,2300
+37347,2016,"BMW","M4 GTS","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Automatic (AM-S7)","Premium",16,23,19,4350
+47609,2024,"Toyota","Tundra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.4,"Automatic (S10)","Premium",18,23,20,4100
+37756,2017,"Acura","TLX FWD","FWD","Front-Wheel Drive","Compact Cars",4,2.4,"Automatic (AM-S8)","Premium",24,35,28,2950
+42224,2020,"Mercedes-Benz","AMG C63","RWD","Rear-Wheel Drive","Compact Cars",8,4,"Automatic 9-spd","Premium",18,27,21,3900
+46684,2024,"Cadillac","XT5 Limo FWD","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic (S9)","Premium",20,23,21,3900
+36975,2016,"Dodge","Charger","RWD","Rear-Wheel Drive","Large Cars",6,3.6,"Automatic 8-spd","Regular",19,30,23,2900
+45058,2022,"Ford","Mustang Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Automatic (S10)","Regular",15,23,18,3700
+39296,2018,"Ford","Fusion FWD","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",21,31,25,2700
+47374,2024,"Toyota","RAV4","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S8)","Regular",27,35,30,2250
+39142,2018,"Chevrolet","Cruze","FWD","Front-Wheel Drive","Compact Cars",4,1.4,"Automatic (S6)","Regular",29,40,33,2050
+42958,2021,"Lexus","RX 350 L","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S8)","Regular",19,26,22,3050
+43473,2021,"Mitsubishi","Outlander Sport 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (AV-S6)","Regular",24,30,27,2500
+43712,2021,"Lincoln","Nautilus FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Regular",21,26,23,2900
+37142,2016,"Nissan","Altima","FWD","Front-Wheel Drive","Midsize Cars",4,2.5,"Automatic (variable gear ratios)","Regular",27,39,31,2150
+38593,2017,"Porsche","Panamera","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (AM-S8)","Premium",21,28,24,3400
+40202,2019,"Jaguar","XJL","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (S8)","Premium",18,27,21,3900
+45149,2022,"Ford","Expedition 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.5,"Automatic (S10)","Regular",17,23,19,3550
+48825,2025,"Ford","Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Automatic (S10)","Regular",16,24,19,3550
+45537,2023,"Hyundai","Santa Cruz FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S8)","Regular",22,26,23,2900
+38024,2017,"Mazda","2","FWD","Front-Wheel Drive","Compact Cars",4,1.5,"Automatic (S6)","Regular",32,40,35,1900
+40324,2019,"Ford","Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Automatic (S10)","Regular",21,32,25,2700
+49793,2026,"Ford","Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Manual 6-spd","Regular",15,23,18,3700
+41327,2020,"BMW","440i Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Automatic (S8)","Premium",22,29,24,3400
+44856,2022,"Jeep","Grand Cherokee 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 8-spd","Regular",19,26,22,3050
+35530,2015,"Ferrari","458 Spider","RWD","Rear-Wheel Drive","Two Seaters",8,4.5,"Automatic (AM7)","Premium",13,17,14,5850
+37077,2016,"Honda","Civic 4Dr","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (variable gear ratios)","Regular",30,40,34,1950
+37925,2017,"Cadillac","CTS","RWD","Rear-Wheel Drive","Midsize Cars",6,3.6,"Automatic (S8)","Premium",16,24,18,4550
+43368,2021,"Buick","Envision FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S9)","Regular",24,31,26,2600
+43198,2021,"GMC","Sierra Cab Chassis 2WD","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",8,5.3,"Automatic 6-spd","Regular",14,18,15,4450
+50140,2026,"Jeep","Grand Wagoneer 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic 8-spd","Regular",17,24,19,3550
+39389,2018,"Cadillac","ATS-V","RWD","Rear-Wheel Drive","Compact Cars",6,3.6,"Manual 6-spd","Premium",16,23,19,4350
+48887,2025,"GMC","Canyon 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",4,2.7,"Automatic 8-spd","Regular",19,23,20,3350
+36940,2016,"Nissan","Rogue FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (variable gear ratios)","Regular",26,32,28,2400
+40108,2019,"Kia","Sportage FE FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S6)","Regular",23,30,25,2700
+45604,2023,"BMW","430i Gran Coupe","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",25,34,28,2950
+44486,2022,"Infiniti","QX80 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.6,"Automatic (S7)","Premium",14,20,16,5150
+40539,2019,"Toyota","Tundra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,4.6,"Automatic (S6)","Regular",15,19,16,4200
+36350,2016,"Buick","Enclave FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 6-spd","Regular",15,22,18,3700
+40622,2019,"Lexus","RX 350","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S8)","Regular",20,27,23,2900
+34778,2015,"Lexus","RX 350","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S6)","Regular",18,25,21,3200
+47133,2024,"Chrysler","Pacifica","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.6,"Automatic 9-spd","Regular",19,28,22,3050
+47604,2024,"Ford","F150 Pickup 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.5,"Automatic (S10)","Regular",17,25,20,3350
+37457,2017,"Nissan","370Z Roadster","RWD","Rear-Wheel Drive","Two Seaters",6,3.7,"Manual 6-spd","Premium",17,24,20,4100
+43182,2021,"Maserati","Quattroporte Trofeo","RWD","Rear-Wheel Drive","Large Cars",8,3.8,"Automatic 8-spd","Premium",13,20,16,5150
+39464,2018,"Ford","Escape FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S6)","Regular",21,28,24,2800
+43257,2021,"Cadillac","CT5","RWD","Rear-Wheel Drive","Midsize Cars",4,2,"Automatic (S10)","Premium",23,32,26,3150
+35753,2015,"Ford","Transit Connect Van 2WD","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,1.6,"Automatic (S6)","Regular",22,29,25,2700
+45941,2023,"Mercedes-Benz","E350","RWD","Rear-Wheel Drive","Midsize Cars",4,2,"Automatic 9-spd","Premium",23,31,26,3150
+38958,2018,"GMC","Acadia FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 6-spd","Regular",18,25,21,3200
+47321,2024,"Lexus","RC 300","RWD","Rear-Wheel Drive","Subcompact Cars",4,2,"Automatic (S8)","Premium",21,31,25,3300
+42333,2020,"Dodge","Charger","RWD","Rear-Wheel Drive","Large Cars",8,6.4,"Automatic 8-spd","Premium",15,24,18,4550
+38840,2017,"Mercedes-Benz","Maybach S650 Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",12,6,"Automatic 7-spd","Premium",13,21,16,5150
+38656,2018,"Jaguar","F-Type Convertible","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",16,24,19,4350
+44520,2022,"Porsche","718 Cayman GT4","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Automatic (AM-S7)","Premium",18,24,20,4100
+37583,2017,"Ford","Mustang Performance Package","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Manual 6-spd","Regular",14,23,17,3950
+39720,2018,"Jaguar","XJ","RWD","Rear-Wheel Drive","Large Cars",8,5,"Automatic (S8)","Premium",15,23,18,4550
+37543,2017,"Hyundai","Tucson Eco FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.6,"Automatic (AM7)","Regular",26,32,28,2400
+49873,2026,"Chevrolet","Tahoe 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,20,17,3950
+37069,2016,"Ferrari","488 GTB","RWD","Rear-Wheel Drive","Two Seaters",8,3.9,"Automatic (AM7)","Premium",15,22,18,4550
+45977,2023,"Mercedes-Benz","Metris (US Postal)","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic 9-spd","Premium",19,25,21,3900
+36383,2016,"Audi","A3","FWD","Front-Wheel Drive","Subcompact Cars",4,1.8,"Automatic (AM-S6)","Regular",23,33,27,2500
+38808,2018,"Volvo","XC90 FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Premium",22,29,25,3300
+43532,2021,"Mercedes-Benz","AMG C63 S","RWD","Rear-Wheel Drive","Compact Cars",8,4,"Automatic 9-spd","Premium",17,26,21,3900
+40265,2019,"Cadillac","XT5","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic (S8)","Regular",19,26,22,3050
+40560,2019,"Subaru","BRZ","RWD","Rear-Wheel Drive","Minicompact Cars",4,2,"Automatic (S6)","Premium",24,33,27,3050
+35513,2015,"Toyota","Venza","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S6)","Regular",19,26,21,3200
+43037,2021,"Mercedes-Benz","A220","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (AM7)","Premium",25,36,29,2850
+38612,2018,"BMW","430i Coupe","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",24,34,27,3050
+43636,2021,"Cadillac","XT5 Limo FWD","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic (S9)","Premium",20,23,21,3900
+35794,2015,"MINI","Cooper (3-doors)","FWD","Front-Wheel Drive","Subcompact Cars",3,1.5,"Manual 6-spd","Premium",29,38,32,2550
+38696,2017,"Honda","Civic 5Dr - Type R","FWD","Front-Wheel Drive","Large Cars",4,2,"Manual 6-spd","Premium",22,28,25,3300
+40945,2019,"Chevrolet","Silverado C10 XFE 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.3,"Automatic 8-spd","Regular",17,24,19,3550
+38333,2017,"Chrysler","300","RWD","Rear-Wheel Drive","Large Cars",8,5.7,"Automatic 8-spd","Midgrade",16,25,19,4000
+36656,2016,"BMW","435i Coupe","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Automatic (S8)","Premium",20,30,24,3400
+43254,2021,"Cadillac","CT5 V","RWD","Rear-Wheel Drive","Midsize Cars",6,3,"Automatic (S10)","Premium",18,27,21,3900
+36674,2016,"Volkswagen","Jetta","FWD","Front-Wheel Drive","Compact Cars",4,1.8,"Automatic (S6)","Regular",25,35,29,2300
+37479,2017,"Hyundai","Accent","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (S6)","Regular",26,36,30,2250
+37195,2016,"Nissan","Sentra","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Automatic (variable gear ratios)","Regular",29,37,32,2100
+43675,2021,"Ford","Shelby GT500 Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",8,5.2,"Automatic (AM7)","Premium",12,18,14,5850
+45431,2023,"Alfa Romeo","Giulia","RWD","Rear-Wheel Drive","Midsize Cars",6,2.9,"Automatic 8-spd","Premium",17,25,20,4100
+44522,2022,"Porsche","718 Cayman T","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (AM-S7)","Premium",21,27,23,3550
+40847,2019,"Honda","Civic 4Dr","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (AV-S7)","Regular",29,37,32,2100
+35131,2015,"Porsche","Panamera S","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (AM-S7)","Premium",18,26,21,3900
+44659,2022,"Chevrolet","Suburban 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,20,17,3950
+44037,2021,"Chevrolet","Suburban 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 10-spd","Regular",15,20,17,3950
+48457,2024,"Porsche","Panamera","RWD","Rear-Wheel Drive","Large Cars",6,2.9,"Automatic (AM-S8)","Premium",18,25,21,3900
+43582,2021,"Porsche","718 Spyder","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Manual 6-spd","Premium",17,23,19,4350
+43829,2022,"MINI","Cooper S Hardtop 4 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (AM-S7)","Premium",28,38,31,2650
+37495,2017,"Chevrolet","Impala","FWD","Front-Wheel Drive","Large Cars",6,3.6,"Automatic (S6)","Regular",18,28,22,3050
+39491,2018,"Porsche","Cayman S","RWD","Rear-Wheel Drive","Two Seaters",4,2.5,"Automatic (AM-S7)","Premium",21,28,24,3400
+46345,2023,"Ford","Mustang Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Automatic 10-spd","Regular",20,28,23,2900
+44846,2022,"Honda","Civic 4Dr","FWD","Front-Wheel Drive","Midsize Cars",4,1.5,"Manual 6-spd","Premium",27,37,31,2650
+35221,2015,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Compact Cars",8,6.2,"Manual 6-spd","Premium",14,19,16,5150
+38559,2017,"MINI","Cooper Countryman","FWD","Front-Wheel Drive","Midsize Cars",3,1.5,"Automatic (S6)","Premium",25,33,28,2950
+49130,2025,"Lotus","Emira","RWD","Rear-Wheel Drive","Two Seaters",6,3.5,"Manual 6-spd","Regular",16,24,19,3550
+43010,2021,"Toyota","Tundra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.7,"Automatic (S6)","Regular",13,17,15,4450
+38700,2018,"Ferrari","812 Superfast","RWD","Rear-Wheel Drive","Two Seaters",12,6.5,"Automatic (AM7)","Premium",12,16,13,6300
+49307,2026,"Acura","Integra A-Spec","FWD","Front-Wheel Drive","Large Cars",4,1.5,"Manual 6-spd","Premium",26,36,30,2750
+43615,2021,"Ford","Ranger 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",4,2.3,"Automatic (S10)","Regular",21,26,23,2900
+47780,2025,"Buick","Envista","FWD","Front-Wheel Drive","Small Station Wagons",3,1.2,"Automatic 6-spd","Regular",28,32,30,2250
+42467,2020,"Cadillac","CT4","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",23,34,27,3050
+39846,2018,"Mazda","6","FWD","Front-Wheel Drive","Midsize Cars",4,2.5,"Automatic (S6)","Regular",26,35,29,2300
+36099,2016,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Manual 6-spd","Regular",24,34,28,2400
+48909,2025,"Nissan","Murano FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S9)","Regular",21,27,23,2900
+45678,2023,"Volkswagen","Atlas","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Regular",21,25,23,2900
+42388,2020,"Dodge","Challenger","RWD","Rear-Wheel Drive","Midsize Cars",8,5.7,"Manual 6-spd","Premium",15,23,18,4550
+35503,2015,"Toyota","Corolla","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Automatic (AV-S7)","Regular",28,36,31,2150
+45965,2023,"Ferrari","Daytona SP3","RWD","Rear-Wheel Drive","Two Seaters",12,6.5,"Automatic (AM7)","Premium",12,16,13,6300
+42421,2020,"Roush Performance","F150 Pickup 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5,"Automatic (S10)","Premium",11,15,13,6300
+38022,2017,"Hyundai","Veloster","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Manual 6-spd","Regular",25,33,28,2400
+38414,2017,"Toyota","Highlander","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.7,"Automatic (S6)","Regular",20,24,22,3050
+41961,2020,"Ford","Mustang HO Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Manual 6-spd","Regular",19,26,22,3050
+47079,2024,"Kia","Forte FE","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (variable gear ratios)","Regular",30,41,34,1950
+37929,2017,"Rolls-Royce","Wraith","RWD","Rear-Wheel Drive","Midsize Cars",12,6.6,"Automatic (S8)","Premium",12,19,15,5500
+40452,2019,"BMW","M4 Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Manual 6-spd","Premium",17,25,20,4100
+40083,2019,"Ferrari","488 Pista Spider","RWD","Rear-Wheel Drive","Two Seaters",8,3.9,"Automatic (AM7)","Premium",15,19,17,4850
+41465,2020,"Kia","Optima","FWD","Front-Wheel Drive","Large Cars",4,2,"Automatic (S6)","Regular",21,30,24,2800
+35438,2015,"Dodge","Challenger SRT8","RWD","Rear-Wheel Drive","Midsize Cars",8,6.4,"Automatic 8-spd","Premium",15,25,18,4550
+37591,2017,"Acura","MDX FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S9)","Premium",20,27,23,3550
+43246,2021,"Volkswagen","Jetta GLI","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AM-S7)","Regular",24,35,28,2400
+36442,2016,"Pagani","Huayra Coupe","RWD","Rear-Wheel Drive","Two Seaters",12,6,"Automatic (AM7)","Premium",11,17,13,6300
+41502,2020,"Volvo","XC60 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Premium",22,29,24,3400
+36270,2016,"Porsche","911 Carrera GTS Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3.8,"Manual 7-spd","Premium",18,25,20,4100
+36072,2016,"Nissan","370Z","RWD","Rear-Wheel Drive","Two Seaters",6,3.7,"Automatic (S7)","Premium",19,26,21,3900
+34952,2015,"Volkswagen","Passat","FWD","Front-Wheel Drive","Midsize Cars",6,3.6,"Automatic (AM-S6)","Premium",20,28,23,3550
+35606,2015,"Aston Martin","Vanquish","RWD","Rear-Wheel Drive","Minicompact Cars",12,6,"Automatic (S8)","Premium",13,21,16,5150
+35722,2015,"Hyundai","Santa Fe Sport Ultimate FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S6)","Regular",19,26,22,3050
+44213,2022,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Subcompact Cars",4,2,"Manual 6-spd","Premium",19,29,22,3750
+45415,2023,"Volkswagen","GTI","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AM-S7)","Regular",24,34,28,2400
+42690,2021,"Volvo","XC90 FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Premium",21,30,25,3300
+35519,2015,"BMW","X6 sDrive35i","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic (S8)","Premium",19,27,22,3750
+39475,2018,"BMW","X6 sDrive35i","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic (S8)","Premium",18,25,21,3900
+39238,2018,"Ford","F150 Pickup 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.5,"Automatic (S10)","Regular",18,25,21,3200
+34933,2015,"Aston Martin","V8 Vantage","RWD","Rear-Wheel Drive","Two Seaters",8,4.7,"Manual 6-spd","Premium",13,19,15,5500
+41868,2020,"Cadillac","XT5 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic (S9)","Regular",18,26,21,3200
+41543,2020,"Subaru","BRZ","RWD","Rear-Wheel Drive","Minicompact Cars",4,2,"Manual 6-spd","Premium",21,29,24,3400
+40670,2019,"Jeep","Grand Cherokee 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 8-spd","Regular",19,26,21,3200
+42943,2021,"Toyota","Avalon","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Regular",22,31,25,2700
+38705,2018,"Kia","Optima","FWD","Front-Wheel Drive","Large Cars",4,2,"Automatic (S6)","Regular",22,31,25,2700
+39624,2018,"Honda","CR-V FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (variable gear ratios)","Regular",26,32,28,2400
+43590,2021,"Ford","Expedition MAX 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.5,"Automatic (S10)","Regular",17,23,19,3550
+35783,2015,"Nissan","Quest","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.5,"Automatic (variable gear ratios)","Regular",20,27,22,3050
+39912,2019,"Genesis","G70 RWD","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",22,30,25,3300
+45825,2023,"Nissan","Rogue FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",3,1.5,"Automatic (AV-S8)","Regular",30,37,33,2050
+43976,2022,"Hyundai","Sonata","FWD","Front-Wheel Drive","Large Cars",4,2.5,"Automatic (S8)","Regular",27,37,31,2150
+37626,2017,"Honda","Accord","FWD","Front-Wheel Drive","Midsize Cars",4,2.4,"Automatic (AV-S7)","Regular",26,34,29,2300
+49437,2026,"Kia","Carnival","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.5,"Automatic (S8)","Regular",18,25,21,3200
+36307,2016,"Jaguar","F-Type Coupe","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",16,24,19,4350
+45609,2023,"Infiniti","Q50","RWD","Rear-Wheel Drive","Midsize Cars",6,3,"Automatic (S7)","Premium",20,29,23,3550
+44559,2022,"Kia","Rio","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (AV-S1)","Regular",33,41,36,1850
+46763,2024,"Porsche","911 Carrera T","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Manual 7-spd","Premium",17,25,20,4100
+39400,2018,"Lincoln","Continental  FWD","FWD","Front-Wheel Drive","Large Cars",6,2.7,"Automatic (S6)","Regular",18,27,21,3200
+40974,2019,"Lincoln","Navigator L 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.5,"Automatic (S10)","Regular",16,22,18,3700
+35019,2015,"Nissan","Altima","FWD","Front-Wheel Drive","Midsize Cars",4,2.5,"Automatic (variable gear ratios)","Regular",27,37,31,2150
+35910,2015,"Scion","xB","FWD","Front-Wheel Drive","Small Station Wagons",4,2.4,"Automatic (S4)","Regular",22,27,24,2800
+48003,2025,"Alfa Romeo","Giulia","RWD","Rear-Wheel Drive","Midsize Cars",4,2,"Automatic 8-spd","Premium",24,33,27,3050
+40601,2019,"Dodge","Challenger","RWD","Rear-Wheel Drive","Midsize Cars",8,6.4,"Manual 6-spd","Premium",14,23,17,4850
+37330,2017,"BMW","M6 Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",8,4.4,"Manual 6-spd","Premium",15,22,17,4850
+41279,2020,"Jaguar","F-Type Convertible","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Automatic (S8)","Premium",20,28,23,3550
+35726,2015,"Infiniti","QX80 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.6,"Automatic (S7)","Premium",14,20,16,5150
+34950,2015,"Kia","Forte","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Manual 6-spd","Regular",25,36,29,2300
+35850,2015,"Mercedes-Benz","E350","RWD","Rear-Wheel Drive","Midsize Cars",6,3.5,"Automatic 7-spd","Premium",20,28,23,3550
+35467,2015,"Jeep","Compass FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic 6-spd","Regular",21,27,23,2900
+43822,2022,"MINI","Cooper S Convertible","FWD","Front-Wheel Drive","Minicompact Cars",4,2,"Automatic (AM-S7)","Premium",27,36,30,2750
+40618,2019,"Dodge","Charger","RWD","Rear-Wheel Drive","Large Cars",8,6.4,"Automatic 8-spd","Premium",15,24,18,4550
+44181,2022,"BMW","330i Sedan","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",26,36,30,2750
+46230,2023,"Lexus","RX 350","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S8)","Premium",22,29,25,3300
+39331,2018,"Kia","Rio","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Manual 6-spd","Regular",29,37,32,2100
+37152,2016,"Lexus","GS 350 F Sport","RWD","Rear-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Premium",19,27,22,3750
+37834,2017,"Ford","Transit Connect Wagon LWB FWD","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2.5,"Automatic (S6)","Regular",19,27,22,3050
+38956,2018,"Chevrolet","Traverse FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 9-spd","Regular",18,27,21,3200
+36322,2016,"Hyundai","Azera Limited","FWD","Front-Wheel Drive","Large Cars",6,3.3,"Automatic (S6)","Regular",19,28,22,3050
+39288,2018,"Alfa Romeo","Giulia","RWD","Rear-Wheel Drive","Midsize Cars",6,2.9,"Automatic 8-spd","Premium",17,24,20,4100
+35017,2015,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Manual 6-spd","Regular",24,34,28,2400
+46062,2023,"Acura","RDX FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S10)","Premium",22,28,24,3400
+39771,2018,"Mazda","MX-5","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S6)","Premium",26,35,29,2850
+48112,2025,"Lincoln","Aviator RWD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic (S10)","Regular",18,25,21,3200
+43042,2021,"Mazda","3 4-Door 2WD","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (S6)","Regular",28,36,31,2150
+42942,2021,"Toyota","Avalon XLE","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Regular",22,32,26,2600
+45127,2022,"Volkswagen","Arteon","FWD","Front-Wheel Drive","Large Cars",4,2,"Automatic (AM7)","Premium",24,34,28,2950
+46121,2023,"BMW","M2 Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Automatic (S8)","Premium",16,23,19,4350
+38361,2017,"Ford","Edge FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S6)","Regular",17,26,20,3350
+38347,2017,"Mercedes-Benz","Metris (Passenger Van)","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic 7-spd","Premium",20,23,22,3750
+44570,2022,"Porsche","Panamera","RWD","Rear-Wheel Drive","Large Cars",6,2.9,"Automatic (AM-S8)","Premium",18,24,20,4100
+38055,2017,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (variable gear ratios)","Regular",31,39,34,1950
+45433,2023,"Jaguar","XF P250","RWD","Rear-Wheel Drive","Midsize Cars",4,2,"Automatic (S8)","Premium",25,33,28,2950
+35005,2015,"Buick","Regal","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",21,29,24,2800
+36559,2016,"MINI","Cooper S Hardtop 2 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Manual 6-spd","Premium",23,33,27,3050
+45728,2023,"Porsche","Panamera","RWD","Rear-Wheel Drive","Large Cars",6,2.9,"Automatic (AM-S8)","Premium",18,24,20,4100
+39800,2017,"Porsche","Cayman","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (AM-S7)","Premium",22,29,25,3300
+48060,2025,"Cadillac","XT6 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.6,"Automatic (S9)","Regular",19,26,21,3200
+49465,2026,"Volkswagen","Atlas","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Regular",20,27,23,2900
+49167,2026,"BMW","Z4 sDrive30i","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S8)","Premium",25,33,28,2950
+49166,2026,"Aston Martin","Vanquish Volante","RWD","Rear-Wheel Drive","Two Seaters",12,5.2,"Automatic 8-spd","Premium",13,20,16,5150
+37157,2016,"Toyota","Sienna 2WD","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.5,"Automatic (S6)","Regular",18,25,21,3200
+46764,2024,"Porsche","911 Carrera T","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Automatic (AM-S8)","Premium",18,24,20,4100
+46642,2024,"BMW","M240i Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Automatic (S8)","Premium",22,32,26,3150
+39127,2018,"MINI","Cooper S Hardtop 2 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Manual 6-spd","Premium",23,32,26,3150
+39543,2018,"Ford","Edge FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S6)","Regular",20,29,24,2800
+35684,2015,"Chevrolet","Colorado Cab Chassis 2WD","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",6,3.6,"Automatic 6-spd","Regular",15,18,16,4200
+44085,2022,"Buick","Enclave FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.6,"Automatic 9-spd","Regular",18,26,21,3200
+38882,2018,"Toyota","Camry XSE","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Regular",22,32,26,2600
+34703,2015,"Jaguar","F-Type Coupe","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Automatic (S8)","Premium",20,28,23,3550
+40477,2019,"BMW","540i","RWD","Rear-Wheel Drive","Midsize Cars",6,3,"Automatic (S8)","Premium",21,29,24,3400
+37824,2017,"BMW","650i Gran Coupe","RWD","Rear-Wheel Drive","Compact Cars",8,4.4,"Automatic (S8)","Premium",17,24,19,4350
+40172,2019,"Aston Martin","DB11 V8","RWD","Rear-Wheel Drive","Minicompact Cars",8,4,"Automatic (S8)","Premium",18,24,20,4100
+39642,2018,"Ford","Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Manual 6-spd","Regular",21,31,25,2700
+38416,2017,"Toyota","Highlander","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S8)","Regular",20,27,23,2900
+36309,2016,"Jaguar","F-Type S Coupe","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",15,24,18,4550
+37687,2017,"Volvo","XC90 FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Premium",22,26,24,3400
+36311,2016,"Porsche","Boxster S","RWD","Rear-Wheel Drive","Two Seaters",6,3.4,"Automatic (AM-S7)","Premium",21,29,24,3400
+47117,2024,"Toyota","Tundra 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.4,"Automatic (S10)","Regular",18,23,20,3350
+41547,2020,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Subcompact Cars",8,6.2,"Manual 6-spd","Premium",14,20,16,5150
+39504,2018,"Nissan","Altima","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (AV-S7)","Regular",22,32,26,2600
+45291,2022,"Jeep","Grand Wagoneer 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic 8-spd","Premium",15,21,17,4850
+43539,2021,"Nissan","Sentra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (variable gear ratios)","Regular",29,39,33,2050
+44990,2022,"Ram","Promaster City","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2.4,"Automatic 9-spd","Regular",21,28,24,2800
+47763,2025,"BMW","Z4 M40i","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Automatic (S8)","Premium",23,29,25,3300
+43319,2021,"Dodge","Durango RWD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.7,"Automatic 8-spd","Midgrade",14,22,17,4450
+38096,2017,"Chevrolet","Malibu","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic 9-spd","Premium",22,33,26,3150
+37917,2017,"Volkswagen","Jetta","FWD","Front-Wheel Drive","Compact Cars",4,1.4,"Automatic (S6)","Regular",28,38,32,2100
+37098,2016,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Subcompact Cars",8,6.2,"Manual 6-spd","Premium",16,25,19,4350
+42622,2021,"GMC","Yukon XL 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,6.2,"Automatic 10-spd","Premium",14,20,16,5150
+43286,2021,"Lincoln","Aviator RWD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic (S10)","Regular",18,26,21,3200
+41914,2020,"Nissan","Maxima","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (AV-S7)","Premium",20,30,24,3400
+46334,2023,"Mazda","MX-5","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S6)","Premium",26,35,30,2750
+45763,2023,"Maserati","MC20 Spyder","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Automatic (S8)","Premium",15,25,18,4550
+35469,2015,"Jeep","Patriot FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (variable gear ratios)","Regular",22,26,24,2800
+34894,2015,"Bentley","Mulsanne","RWD","Rear-Wheel Drive","Midsize Cars",8,6.8,"Automatic (S8)","Premium",11,18,13,6300
+38781,2018,"Volvo","S60 FWD","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Regular",25,36,29,2300
+39042,2018,"Dodge","Challenger","RWD","Rear-Wheel Drive","Midsize Cars",8,6.4,"Automatic 8-spd","Premium",15,25,18,4550
+39143,2018,"Chevrolet","Cruze Premier","FWD","Front-Wheel Drive","Compact Cars",4,1.4,"Automatic (S6)","Regular",29,39,33,2050
+40101,2019,"Jaguar","F-Type S Coupe","RWD","Rear-Wheel Drive","Two Seaters",6,3,"Manual 6-spd","Premium",15,24,18,4550
+47785,2025,"Buick","Encore GX FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",3,1.3,"Automatic (variable gear ratios)","Regular",29,31,30,2250
+41538,2020,"Chevrolet","Sonic 5","FWD","Front-Wheel Drive","Small Station Wagons",4,1.4,"Automatic (S6)","Regular",26,34,29,2300
+42072,2020,"Honda","Accord","FWD","Front-Wheel Drive","Large Cars",4,2,"Manual 6-spd","Regular",22,32,26,2600
+39676,2018,"Mitsubishi","Outlander 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (AV-S6)","Regular",25,30,27,2500
+39746,2018,"Mercedes-Benz","Maybach S650","RWD","Rear-Wheel Drive","Large Cars",12,6,"Automatic 7-spd","Premium",13,21,16,5150
+46588,2024,"Honda","HR-V FWD","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (variable gear ratios)","Regular",26,32,28,2400
+38201,2017,"Lexus","GS 350","RWD","Rear-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Premium",20,28,23,3550
+40419,2019,"Fiat","500 L","FWD","Front-Wheel Drive","Small Station Wagons",4,1.4,"Automatic 6-spd","Premium",22,30,25,3300
+47031,2024,"Porsche","718 GT4 RS","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Automatic (AM-S7)","Premium",15,19,16,5150
+41822,2020,"Chevrolet","Silverado 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.3,"Automatic 6-spd","Regular",15,21,17,3950
+47055,2024,"Volkswagen","Jetta","FWD","Front-Wheel Drive","Compact Cars",4,1.5,"Automatic (S8)","Regular",30,41,34,1950
+36155,2016,"Ford","Fusion FWD","FWD","Front-Wheel Drive","Midsize Cars",4,1.5,"Automatic (S6)","Regular",25,36,29,2300
+38238,2017,"Honda","Civic 2Dr","FWD","Front-Wheel Drive","Compact Cars",4,1.5,"Manual 6-spd","Regular",30,41,35,1900
+40563,2019,"Chevrolet","Malibu","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic 9-spd","Premium",22,32,26,3150
+45280,2023,"MINI","Cooper S Countryman","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (AM-S7)","Premium",24,33,28,2950
+34830,2015,"Chrysler","200","FWD","Front-Wheel Drive","Midsize Cars",4,2.4,"Automatic 9-spd","Regular",23,36,27,2500
+34795,2015,"BMW","Z4 sDrive28i","RWD","Rear-Wheel Drive","Two Seaters",4,2,"Automatic (S8)","Premium",22,32,26,3150
+38316,2017,"Dodge","Challenger","RWD","Rear-Wheel Drive","Midsize Cars",6,3.6,"Automatic 8-spd","Regular",19,30,23,2900
+44432,2022,"Honda","CR-V FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.5,"Automatic (variable gear ratios)","Regular",28,34,30,2250
+35741,2015,"Ram","1500 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.6,"Automatic 8-spd","Regular",17,25,20,3350
+34876,2015,"MINI","Cooper Paceman","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Manual 6-spd","Premium",27,33,29,2850
+34892,2015,"Chevrolet","Spark","FWD","Front-Wheel Drive","Subcompact Cars",4,1.2,"Manual 5-spd","Regular",31,38,34,1950
+41805,2020,"Lincoln","MKZ FWD","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",20,31,24,2800
+35639,2015,"Kia","Sedona","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.3,"Automatic (S6)","Regular",18,24,20,3350
+39777,2018,"Mazda","CX-5 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S6)","Regular",25,31,28,2400
+46770,2024,"Cadillac","CT4","RWD","Rear-Wheel Drive","Compact Cars",4,2.7,"Automatic (S10)","Premium",21,31,25,3300
+34808,2015,"MINI","John Cooper Works Convertible","FWD","Front-Wheel Drive","Minicompact Cars",4,1.6,"Automatic (S6)","Premium",25,33,28,2950
+41812,2020,"Toyota","Avalon","FWD","Front-Wheel Drive","Midsize Cars",6,3.5,"Automatic (S8)","Regular",22,31,25,2700
+46353,2023,"Mazda","3 4-Door 2WD","FWD","Front-Wheel Drive","Compact Cars",4,2.5,"Automatic (S6)","Regular",28,37,31,2150
+41476,2020,"Hyundai","Santa Fe FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S8)","Regular",22,29,25,2700
+39762,2018,"Toyota","Tacoma 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",4,2.7,"Automatic (S6)","Regular",20,23,21,3200
+46697,2024,"Hyundai","Santa Cruz FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S8)","Regular",22,26,23,2900
+36842,2016,"Fiat","500 Abarth","FWD","Front-Wheel Drive","Minicompact Cars",4,1.4,"Manual 5-spd","Premium",28,33,30,2750
+45967,2023,"Porsche","718 Boxster GTS","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Manual 6-spd","Premium",17,24,19,4350
+38542,2017,"Chrysler","Pacifica","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.6,"Automatic 9-spd","Regular",19,28,22,3050
+47606,2024,"Ram","1500 Classic 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",6,3.6,"Automatic 8-spd","Regular",17,25,20,3350
+41544,2020,"Subaru","BRZ","RWD","Rear-Wheel Drive","Minicompact Cars",4,2,"Automatic (S6)","Premium",24,33,27,3050
+46779,2024,"Mitsubishi","Mirage G4","FWD","Front-Wheel Drive","Compact Cars",3,1.2,"Automatic (variable gear ratios)","Regular",35,41,37,1800
+43621,2021,"Mercedes-Benz","Metris (Cargo Van, LWB)","RWD","Rear-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic 9-spd","Premium",19,23,21,3900
+39998,2019,"BMW","650i Gran Coupe","RWD","Rear-Wheel Drive","Compact Cars",8,4.4,"Automatic (S8)","Premium",18,26,21,3900
+42638,2021,"Chevrolet","Trax FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.4,"Automatic (S6)","Regular",26,31,28,2400
+42182,2020,"Toyota","RAV4","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S8)","Regular",28,35,30,2250
+44555,2022,"Infiniti","QX60 FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3.5,"Automatic (S9)","Premium",21,26,23,3550
+38435,2017,"Porsche","911 Carrera GTS Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Automatic (AM-S7)","Premium",20,26,22,3750
+39490,2018,"Porsche","Cayman S","RWD","Rear-Wheel Drive","Two Seaters",4,2.5,"Manual 6-spd","Premium",20,26,22,3750
+38095,2017,"Mercedes-Benz","AMG C63 S","RWD","Rear-Wheel Drive","Compact Cars",8,4,"Automatic 7-spd","Premium",18,24,20,4100
+40328,2019,"Ford","Mustang Performance Package","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Manual 6-spd","Regular",20,27,23,2900
+39978,2019,"MINI","Cooper S Hardtop 2 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Manual 6-spd","Premium",23,32,26,3150
+41820,2020,"Chevrolet","Silverado 2WD","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",4,2.7,"Automatic 8-spd","Regular",19,22,20,3350
+41355,2020,"BMW","M4 CS","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Automatic (AM-S7)","Premium",17,23,19,4350
+35565,2015,"Rolls-Royce","Phantom EWB","RWD","Rear-Wheel Drive","Large Cars",12,6.7,"Automatic (S8)","Premium",11,19,14,5850
+39005,2018,"Chevrolet","Suburban C1500 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 6-spd","Regular",16,23,19,3550
+44472,2022,"Lexus","UX 200","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (AV-S10)","Regular",29,37,32,2100
+41690,2020,"Ferrari","812 Superfast","RWD","Rear-Wheel Drive","Two Seaters",12,6.5,"Automatic (AM7)","Premium",12,16,13,6300
+35947,2015,"Lincoln","MKT Livery FWD","FWD","Front-Wheel Drive","Special Purpose Vehicle 2WD",4,2,"Automatic (S6)","Regular",20,28,23,2900
+40399,2019,"Honda","Pilot FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (S9)","Regular",20,27,23,2900
+42534,2021,"MINI","John Cooper Works Hardtop","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (S8)","Premium",26,34,29,2850
+44692,2022,"Lexus","LC 500","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Automatic (S10)","Premium",16,25,19,4350
+38057,2017,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic 4-spd","Regular",26,35,29,2300
+41518,2020,"Buick","Encore FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.4,"Automatic (S6)","Regular",25,30,27,2500
+45369,2023,"Cadillac","XT4 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Automatic (S9)","Premium",23,30,26,3150
+38434,2017,"Porsche","911 Carrera GTS Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Manual 7-spd","Premium",18,26,21,3900
+38817,2018,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Subcompact Cars",8,6.2,"Manual 6-spd","Premium",16,25,19,4350
+37419,2016,"Infiniti","Q50","RWD","Rear-Wheel Drive","Midsize Cars",6,3,"Automatic (S7)","Premium",19,28,23,3550
+38848,2018,"Chevrolet","Camaro","RWD","Rear-Wheel Drive","Subcompact Cars",6,3.6,"Manual 6-spd","Regular",16,28,20,3350
+40444,2019,"BMW","M240i Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Automatic (S8)","Premium",21,30,24,3400
+42636,2021,"Kia","K5","FWD","Front-Wheel Drive","Large Cars",4,1.6,"Automatic (S8)","Regular",27,37,31,2150
+43433,2021,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Manual 5-spd","Regular",27,35,30,2250
+41575,2020,"Chevrolet","Suburban C1500 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,5.3,"Automatic 6-spd","Regular",15,22,18,3700
+42718,2021,"MINI","Cooper Convertible","FWD","Front-Wheel Drive","Minicompact Cars",3,1.5,"Manual 6-spd","Premium",26,37,30,2750
+35500,2015,"Toyota","Corolla","FWD","Front-Wheel Drive","Midsize Cars",4,1.8,"Manual 6-spd","Regular",28,36,31,2150
+39336,2018,"Nissan","Versa","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic 4-spd","Regular",26,35,29,2300
+36271,2016,"Porsche","911 Carrera GTS Cabriolet","RWD","Rear-Wheel Drive","Minicompact Cars",6,3.8,"Automatic (AM-S7)","Premium",19,25,21,3900
+36897,2016,"Volkswagen","Beetle","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (AM-S6)","Regular",24,31,26,2600
+34942,2015,"Hyundai","Genesis Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",6,3.8,"Automatic (S8)","Premium",16,25,19,4350
+42678,2021,"Volvo","V60 FWD","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (S8)","Premium",23,34,27,3050
+44809,2022,"BMW","X1 sDrive28i","FWD","Front-Wheel Drive","Large Cars",4,2,"Automatic (S8)","Premium",24,33,27,3050
+44384,2022,"Chevrolet","Colorado 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",6,3.6,"Automatic 8-spd","Regular",18,25,21,3200
+41336,2020,"Acura","TLX FWD A-SPEC","FWD","Front-Wheel Drive","Compact Cars",6,3.5,"Automatic (S9)","Premium",20,30,23,3550
+38087,2017,"Hyundai","Veloster","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Automatic (AM6)","Regular",28,35,31,2150
+46864,2024,"Hyundai","Venue","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,1.6,"Automatic (AV-S1)","Regular",29,33,31,2150
+37492,2017,"Kia","Forte","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S6)","Regular",25,33,28,2400
+47322,2024,"Lexus","RC F","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Automatic (S8)","Premium",16,24,19,4350
+41540,2020,"Infiniti","QX60 FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (AV-S7)","Premium",20,27,22,3750
+36059,2016,"Kia","Sedona SXL","FWD","Front-Wheel Drive","Minivan - 2WD",6,3.3,"Automatic (S6)","Regular",17,22,19,3550
+40253,2019,"Volvo","V60 FWD","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (S8)","Premium",24,36,28,2950
+37277,2016,"Chevrolet","Cruze","FWD","Front-Wheel Drive","Compact Cars",4,1.4,"Manual 6-spd","Regular",28,39,32,2100
+46432,2023,"Mercedes-Benz","AMG C63 S Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",8,4,"Automatic 9-spd","Premium",16,24,19,4350
+41321,2020,"BMW","M240i Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",6,3,"Manual 6-spd","Premium",19,27,22,3750
+35471,2015,"Jeep","Patriot FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2,"Manual 5-spd","Regular",23,30,25,2700
+42481,2020,"Cadillac","CT4 V","RWD","Rear-Wheel Drive","Compact Cars",4,2.7,"Automatic (S10)","Premium",20,29,23,3550
+42125,2020,"Volkswagen","Jetta","FWD","Front-Wheel Drive","Compact Cars",4,2,"Manual 6-spd","Regular",25,33,28,2400
+39646,2018,"Ford","Shelby GT350 Mustang","RWD","Rear-Wheel Drive","Subcompact Cars",8,5.2,"Manual 6-spd","Premium",14,21,16,5150
+42546,2021,"Chevrolet","Colorado 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",6,3.6,"Automatic 8-spd","Regular",18,25,21,3200
+48840,2025,"MINI","JCW Hardtop 2 Door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (AM-S7)","Premium",27,37,30,2750
+35802,2015,"Hyundai","Accent","FWD","Front-Wheel Drive","Compact Cars",4,1.6,"Manual 6-spd","Regular",27,37,31,2150
+40589,2019,"Chevrolet","Tahoe C1500 2WD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",8,6.2,"Automatic 10-spd","Premium",14,23,17,4850
+42521,2021,"Buick","Encore GX FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",3,1.2,"Automatic (variable gear ratios)","Regular",28,31,29,2300
+36523,2016,"Mazda","3 4-Door","FWD","Front-Wheel Drive","Compact Cars",4,2.5,"Automatic (S6)","Regular",28,38,31,2150
+43126,2021,"Mazda","CX-5 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.5,"Automatic (S6)","Regular",23,28,25,2700
+44837,2021,"Jaguar","XE P250","RWD","Rear-Wheel Drive","Compact Cars",4,2,"Automatic (S8)","Premium",25,34,28,2950
+44937,2022,"Aston Martin","DB11 V12","RWD","Rear-Wheel Drive","Minicompact Cars",12,5.2,"Automatic (S8)","Premium",14,22,17,4850
+37263,2017,"Kia","Sportage FE FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",4,2.4,"Automatic (S6)","Regular",23,30,26,2600
+43248,2021,"Volkswagen","Jetta","FWD","Front-Wheel Drive","Compact Cars",4,1.4,"Automatic (S8)","Regular",29,39,33,2050
+42592,2021,"Lexus","LC 500","RWD","Rear-Wheel Drive","Subcompact Cars",8,5,"Automatic (S10)","Premium",16,25,19,4350
+46085,2023,"Porsche","911 GT3 Touring","RWD","Rear-Wheel Drive","Two Seaters",6,4,"Automatic (AM-S7)","Premium",15,18,16,5150
+35635,2015,"Nissan","Frontier 2WD","RWD","Rear-Wheel Drive","Small Pickup Trucks 2WD",4,2.5,"Manual 5-spd","Regular",19,23,21,3200
+36252,2016,"Porsche","911 Carrera","RWD","Rear-Wheel Drive","Minicompact Cars",6,3.4,"Manual 7-spd","Premium",19,27,22,3750
+37575,2017,"Ford","Mustang Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2.3,"Automatic (S6)","Regular",20,28,23,2900
+37979,2017,"BMW","740i","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (S8)","Premium",21,29,24,3400
+49365,2026,"GMC","Sierra 2WD with Sport Mode","RWD","Rear-Wheel Drive","Standard Pickup Trucks 2WD",8,5.3,"Automatic 10-spd","Regular",16,21,18,3700
+38885,2018,"Hyundai","Elantra GT","FWD","Front-Wheel Drive","Large Cars",4,1.6,"Automatic (AM7)","Regular",26,32,28,2400
+37557,2017,"Volvo","S90 FWD","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (S8)","Premium",23,34,27,3050
+36093,2016,"BMW","M5","RWD","Rear-Wheel Drive","Midsize Cars",8,4.4,"Manual 6-spd","Premium",15,22,17,4850
+40489,2019,"Kia","Forte FE","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (variable gear ratios)","Regular",31,41,35,1900
+43969,2022,"Hyundai","Elantra","FWD","Front-Wheel Drive","Midsize Cars",4,2,"Automatic (AV-S1)","Regular",31,41,35,1900
+39847,2018,"Mazda","6","FWD","Front-Wheel Drive","Midsize Cars",4,2.5,"Automatic (S6)","Regular",23,31,26,2600
+44821,2022,"Ford","Explorer RWD","RWD","Rear-Wheel Drive","Standard Sport Utility Vehicle 2WD",6,3,"Automatic 10-spd","Regular",18,26,21,3200
+35945,2015,"Nissan","Murano FWD","FWD","Front-Wheel Drive","Midsize Station Wagons",6,3.5,"Automatic (AV-S7)","Regular",21,28,24,2800
+38974,2018,"BMW","M3","RWD","Rear-Wheel Drive","Compact Cars",6,3,"Manual 6-spd","Premium",17,25,20,4100
+42361,2020,"Mazda","CX-3 2WD","FWD","Front-Wheel Drive","Compact Cars",4,2,"Automatic (S6)","Regular",29,34,31,2150
+41510,2020,"Volvo","XC90 FWD","FWD","Front-Wheel Drive","Standard Sport Utility Vehicle 2WD",4,2,"Automatic (S8)","Premium",21,30,25,3300
+42077,2020,"Nissan","Pathfinder 2WD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,3.5,"Automatic (variable gear ratios)","Regular",20,27,23,2900
+34910,2015,"BMW","M6 Gran Coupe","RWD","Rear-Wheel Drive","Compact Cars",8,4.4,"Automatic (AM-S7)","Premium",14,20,16,5150
+37522,2016,"Dodge","Dart","FWD","Front-Wheel Drive","Midsize Cars",4,1.4,"Manual 6-spd","Premium",27,38,31,2650
+43928,2022,"Kia","Soul","FWD","Front-Wheel Drive","Small Station Wagons",4,2,"Automatic (variable gear ratios)","Regular",28,33,30,2250
+40795,2019,"Lincoln","Nautilus FWD","FWD","Front-Wheel Drive","Small Sport Utility Vehicle 2WD",6,2.7,"Automatic (S8)","Regular",20,27,22,3050
+36686,2016,"BMW","535i Gran Turismo","RWD","Rear-Wheel Drive","Large Cars",6,3,"Automatic (S8)","Premium",19,27,22,3750
+41461,2020,"Genesis","G80 RWD","RWD","Rear-Wheel Drive","Large Cars",6,3.3,"Automatic (S8)","Premium",17,25,20,4100
+37878,2017,"BMW","230i Convertible","RWD","Rear-Wheel Drive","Subcompact Cars",4,2,"Automatic (S8)","Premium",23,34,27,3050
+46759,2024,"Chevrolet","Corvette Z06","RWD","Rear-Wheel Drive","Two Seaters",8,5.5,"Automatic (S8)","Premium",12,21,15,5500
+43502,2021,"Porsche","911 Carrera S","RWD","Rear-Wheel Drive","Minicompact Cars",6,3,"Manual 7-spd","Premium",18,25,21,3900
+42217,2020,"Mercedes-Benz","AMG C63 Coupe","RWD","Rear-Wheel Drive","Subcompact Cars",8,4,"Automatic 9-spd","Premium",17,26,20,4100
+43830,2022,"MINI","John Cooper Works Hardtop 2 door","FWD","Front-Wheel Drive","Subcompact Cars",4,2,"Automatic (S8)","Premium",25,34,29,2850
+43444,2021,"Dodge","Challenger SRT Widebody","RWD","Rear-Wheel Drive","Midsize Cars",8,6.2,"Automatic 8-spd","Premium",13,21,15,5500
